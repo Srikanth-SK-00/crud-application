@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.18.2",
+    "joi": "^17.7.0",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.2",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "parser": "^0.1.4"
+  }
+}
